@@ -1,0 +1,17 @@
+IG_UI_FR = {
+	IGUI_VehicleName70barracuda = "'70 Plymouth Barracuda"
+	IGUI_VehicleName70cuda = "'70 Plymouth Cuda"
+	IGUI_VehicleName70barracudaAAR = "'70 Plymouth Barracuda AAR"
+
+	IGUI_VehiclePartCUDASpareTire = "Pneu de rechange",
+	IGUI_VehiclePartCUDAFrontBumper = "Pare-chocs avant",
+	IGUI_VehiclePartCUDARearBumper = "Pare-chocs arrière",
+
+	IGUI_VehiclePartCUDAWindshieldArmor = "Armure de pare-brise",
+	IGUI_VehiclePartCUDAWindshieldRearArmor = "Armure de pare-brise arrière",
+	IGUI_VehiclePartCUDADoorLeftArmor = "Armure de portière avant gauche",
+	IGUI_VehiclePartCUDADoorRightArmor = "Armure de portière avant droite",
+
+	IGUI_VehiclePartCUDASpoiler = "Becquet",
+	IGUI_VehiclePartCUDATrunk = "Coffre",
+}
