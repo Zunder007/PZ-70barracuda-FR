@@ -1,6 +1,6 @@
 ItemName_FR = {
 	ItemName_Base.CUDADoor3 = "70 Barracuda Portière",
-	ItemName_Base.CUDADoorArmor = "70 Barracuda Armure de portière",
+	ItemName_Base.CUDADoorArmor = "70 Barracuda Blindage de portière",
 	ItemName_Base.CUDAEngineDoor = "70 Cuda Capot",
 	ItemName_Base.CUDAEngineDoorAAR = "70 Barracuda AAR Capot",
 	ItemName_Base.CUDAEngineDoorStock = "70 Barracuda Capot",
@@ -19,7 +19,7 @@ ItemName_FR = {
 	ItemName_Base.CUDATrunk3 = "Malle",
 	ItemName_Base.CUDATrunkDoor3 = "70 Barracuda Coffre",
 	ItemName_Base.CUDAWindshield3 = "70 Barracuda Pare-brise",
-	ItemName_Base.CUDAWindshieldArmor = "70 Barracuda Armure de pare-brise",
+	ItemName_Base.CUDAWindshieldArmor = "70 Barracuda Blindage de pare-brise",
 	ItemName_Base.CUDAWindshieldRear3 = "70 Barracuda Pare-brise arrière",
-	ItemName_Base.CUDAWindshieldRearArmor = "70 Barracuda Armure de pare-brise arrière",
+	ItemName_Base.CUDAWindshieldRearArmor = "70 Barracuda Blindage de pare-brise arrière",
 }
