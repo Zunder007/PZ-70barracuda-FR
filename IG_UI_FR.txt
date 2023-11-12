@@ -14,4 +14,6 @@ IG_UI_FR = {
 
 	IGUI_VehiclePartCUDASpoiler = "Becquet",
 	IGUI_VehiclePartCUDATrunk = "Coffre",
+
+	IGUI_CraftCategory_CUDA = "'70 Plymouth Barracuda",
 }
