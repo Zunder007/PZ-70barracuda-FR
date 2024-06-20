@@ -8,4 +8,16 @@ Recipes_FR = {
 	Recipe_Make_CUDA_Rear_Windshield_Armor = "Fabriquer Blindage de pare-brise arrière",
 	Recipe_Make_CUDA_Windshield = "Fabriquer Pare-brise",
 	Recipe_Make_CUDA_Windshield_Armor = "Fabriquer Blindage de pare-brise",
+
+	Recipe_Dismantle_70_Plymouth_Barracuda_Armor = "Démonter Blindage",
+	Recipe_Dismantle_70_Plymouth_Barracuda_Door = "Démonter Portière",
+	Recipe_Dismantle_70_Plymouth_Barracuda_Lid = "Démonter Coffre",
+	Recipe_Dismantle_70_Plymouth_Barracuda_Seat = "Démonter Siège",
+	Recipe_Dismantle_Small_Vintage_Roofrack = "Démonter Galerie de toit",
+	Recipe_Make_70_Plymouth_Barracuda_Bullbar = "Fabriquer Pare-buffle",
+	Recipe_Make_70_Plymouth_Barracuda_Rear_Windshield_Armor = "Fabriquer Blindage",
+	Recipe_Make_70_Plymouth_Barracuda_Tire = "Fabriquer Pneu",
+	Recipe_Make_70_Plymouth_Barracuda_Window_Armor = "Fabriquer Blindage",
+	Recipe_Make_70_Plymouth_Barracuda_Windshield_Armor = "Fabriquer Blindage",
+	Recipe_Make_Small_Vintage_Roofrack = "Fabriquer Galerie de toit",
 }
